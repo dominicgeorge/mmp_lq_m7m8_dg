@@ -1,0 +1,29 @@
+Performance Report (MS-MPI)
+=================
+
+Matrix size: 100x100
+Serial time: 0.0003 seconds
+Parallel time (1 procs): 0.0013 seconds
+Speedup: 0.19x
+Parallel time (2 procs): 0.0003 seconds
+Speedup: 0.79x
+Parallel time (4 procs): 0.0002 seconds
+Speedup: 1.29x
+
+Matrix size: 500x500
+Serial time: 0.0028 seconds
+Parallel time (1 procs): 0.0064 seconds
+Speedup: 0.44x
+Parallel time (2 procs): 0.0071 seconds
+Speedup: 0.40x
+Parallel time (4 procs): 0.0071 seconds
+Speedup: 0.40x
+
+Matrix size: 1000x1000
+Serial time: 0.0157 seconds
+Parallel time (1 procs): 0.0287 seconds
+Speedup: 0.55x
+Parallel time (2 procs): 0.0293 seconds
+Speedup: 0.54x
+Parallel time (4 procs): 0.0318 seconds
+Speedup: 0.49x
